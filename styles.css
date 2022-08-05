@@ -1,5 +1,12 @@
 * {
-    background-color: lightgreen;
+    background-color:lightblue;
+}
+.cook {
+    height: auto;
+    width: 400px;
+}
+.image {
+    text-align: center;
 }
 .title {
     text-align: center;
