@@ -1,0 +1,13 @@
+* {
+    background-color:moccasin;
+}
+.header {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.food {
+    height: auto;
+    width: 400;
+}
